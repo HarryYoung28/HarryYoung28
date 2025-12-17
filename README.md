@@ -1,4 +1,10 @@
-## Hi there 👋
+## Welcome!
+
+My name is Harry, I am currently a Software Engineering student at the University of Winchester.
+
+I had a previous career as cabin crew before turning to university in 2023.
+
+Feel free to get in touch with me on [LinkedIn](https://www.linkedin.com/in/harry-c-young/).
 
 <!--
 **HarryYoung28/HarryYoung28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
